@@ -5,8 +5,8 @@
 ## About
 
 - Redesigned from image.
-- Followed this [course](https://www.youtube.com/watch?v=lXVP3rDH9EU&list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)
-- Source: [Elzero.org](https://elzero.org/html-css-practice-template-three/) :shipit:
+- Followed this [course](https://www.youtube.com/watch?v=lXVP3rDH9EU&list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc).
+- Source: [Elzero.org](https://elzero.org/html-css-practice-template-three/). :shipit:
 
 ## Technologies
 
